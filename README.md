@@ -45,7 +45,7 @@ The system operates by continuously monitoring sensor data. The Smoke Detector s
 ### Conclusion
 The "Smart Home Automation using Sensors" project demonstrates an efficient way to enhance home safety and automation. By leveraging various sensors and a microcontroller, the system provides automatic control over key home functions, improving security and convenience for users.
 
-### Circuit Diagram:
+### Circuit Diagram
 
 
 
